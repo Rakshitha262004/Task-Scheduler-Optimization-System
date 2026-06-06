@@ -98,10 +98,15 @@ Improvement     : +56.1%
 ---
 
 ## Screenshots
+|![dashboard]|![dashboard]|![dashboard]|
+|------------|------------|------------|
+|![Output](images/1.png)|![Output](images/2.png)|![Output](images/3.png)|
+|![Output](images/4.png)|![Output](images/5.png)|![Output](images/6.png)|
+|![Output](images/7.png)|![Output](images/8.png)|![Output](images/9.png)|
 
-![Terminal Output](images/terminal_output.png)
-![Gantt Chart](images/gantt_chart.png)
-![CSV Report](images/csv_report.png)
+---
+## Demo Video
+link : https://drive.google.com/file/d/1moc9dfdvGYe5buRpGAcND1dD1SsThz2P/view?usp=sharing
 
 ---
 
