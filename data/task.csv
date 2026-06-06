@@ -1,0 +1,16 @@
+task_id,name,priority,deadline,exec_time,profit
+1,Fix Critical Bug,10,3,1,100
+2,Deploy to Production,9,5,2,90
+3,Code Review,6,7,1,50
+4,Write Unit Tests,7,4,1,70
+5,Update Documentation,3,10,2,20
+6,Security Audit,8,6,2,80
+7,Database Optimization,7,8,3,65
+8,UI Bug Fix,5,5,1,45
+9,Performance Profiling,6,9,2,55
+10,Team Meeting Prep,4,2,1,30
+11,API Integration,9,7,2,85
+12,Log Analysis,5,11,3,40
+13,Backup Verification,6,4,1,60
+14,Feature Flag Setup,7,6,2,75
+15,Incident Report,8,3,1,95
